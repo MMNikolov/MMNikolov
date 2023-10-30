@@ -24,3 +24,63 @@
 
 <p><img align="center" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=mmnikolov&" alt="mmnikolov" /></p>
 
+<p align="centre">
+  <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner SoftUni"/>
+</p>
+
+<h1 align="center">Certificates 📜 </h1>
+<table>
+<tr>
+ <th> C# - CSharp (.NET) </th>
+</tr>
+<tr>
+<td>
+ 
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/3875/programming-basics-with-csharp-november-2022" > Programming Basics with C# </a>         | <a href= "https://softuni.bg/certificates/details/152442/48363c91"> Click here</a> |
+  
+  Grade: 6.00 (out of 6.00)<br /> Issue date: 19/12/2022</th>
+  
+  ---------------------------------------------------------------------------------
+  
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/3950/programming-fundamentals-with-csharp-january-2023" > Programming Fundamentals with C# </a>    | <a href="https://softuni.bg/certificates/details/166720/fb67ed3e"> Click here</a> |
+  
+  Grade: 6.00 (out of 6.00)<br /> Issue date: 04/04/2023</th>
+  
+  ---------------------------------------------------------------------------------
+  
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4098/csharp-advanced-may-2023" > C# Advanced </a>        | <a href="https://softuni.bg/certificates/details/173705/9f608d81"> Click here</a> |
+
+ Grade: 6.00 (out of 6.00)<br /> Issue date: 19/06/2023</th>
+ 
+  ---------------------------------------------------------------------------------
+  
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4099/csharp-oop-june-2023" > C# OOP </a>        | <a href="https://softuni.bg/certificates/details/183090/8ca134f1"> Click here</a> | 
+
+ Grade: 6.00 (out of 6.00)<br /> Issue date: 15/08/2023</th>
+ 
+   ---------------------------------------------------------------------------------
+   
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4182/ms-sql-september-2023" > MS SQL </a>        | <a href="https://softuni.bg/certificates/details/185793/255e175e"> Click here</a> | 
+
+ Grade: 6.00 (out of 6.00)<br /> Issue date: 16/10/2023</th>
+ 
+   ---------------------------------------------------------------------------------
+   
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4234/entity-framework-core-october-2023" > C# Entity Framework Core </a>        | <a> SOON!</a> | 
+
+  </table>
+  </tr>
+</td>
+
