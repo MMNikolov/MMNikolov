@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin Nikolov</h1>
 <h3 align="center">A passionate back-end student developer in SoftUni</h3>
-<img align="right" alt="Coding" width="460" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmnikolov&label=Profile%20views&color=0e75b6&style=flat" alt="mmnikolov" /> </p>
 
@@ -80,7 +80,7 @@
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/4234/entity-framework-core-october-2023" > C# Entity Framework Core </a>        | <a href="https://softuni.bg/Certificates/Details/197359/2153cb71"> Click here</a> | 
 
-Grade: 5.31 (out of 6.00)<br /> Issue date: 16/10/2023</th>
+Grade: 5.31 (out of 6.00)<br /> Issue date: 11/12/2023</th>
 
   </table>
   </tr>
