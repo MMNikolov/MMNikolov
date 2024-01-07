@@ -78,9 +78,9 @@
    
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4234/entity-framework-core-october-2023" > C# Entity Framework Core </a>        | <a> href="https://softuni.bg/Certificates/Details/197359/2153cb71"</a> | 
+| <a href="https://softuni.bg/trainings/4234/entity-framework-core-october-2023" > C# Entity Framework Core </a>        | <a href="https://softuni.bg/Certificates/Details/197359/2153cb71"> Click here</a> | 
 
-Grade: 6.00 (out of 6.00)<br /> Issue date: 16/10/2023</th>
+Grade: 5.31 (out of 6.00)<br /> Issue date: 16/10/2023</th>
 
   </table>
   </tr>
