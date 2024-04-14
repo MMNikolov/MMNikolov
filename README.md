@@ -87,7 +87,7 @@ Grade: 5.31 (out of 6.00)<br /> Issue date: 11/12/2023</th>
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/4361/html-and-css-january-2024" > HTML & CSS </a>        | <a href="https://softuni.bg/certificates/details/205556/90f6afcb"> Click here</a> | 
 
-Grade: 6 (out of 6.00)<br /> Issue date: 23/02/2024</th>
+Grade: 6.00 (out of 6.00)<br /> Issue date: 23/02/2024</th>
 
   </table>
   </tr>
