@@ -89,6 +89,14 @@ Grade: 5.31 (out of 6.00)<br /> Issue date: 11/12/2023</th>
 
 Grade: 6.00 (out of 6.00)<br /> Issue date: 23/02/2024</th>
 
+   ---------------------------------------------------------------------------------
+   
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4362/js-front-end-february-2024" > HTML & CSS </a>        | <a href="https://softuni.bg/certificates/details/212555/4b9bff3d"> Click here</a> | 
+
+Grade: 6.00 (out of 6.00)<br /> Issue date: 15/04/2024</th>
+
   </table>
   </tr>
 </td>
