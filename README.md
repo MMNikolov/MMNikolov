@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%2C%20I'm%20Martin%20Nikolov&fontSize=40&fontAlignY=35&desc=A%20passionate%20back-end%20developer%20from%20SoftUni&descAlignY=55&descAlign=62" alt="banner" />
 </p>
 
+</br>
+
 ## 👨‍💻 About Me
 
 Hi, I'm Martin Nikolov — a passionate back-end student developer with a love for turning ideas into reality through code. 
@@ -25,6 +27,8 @@ I’m working on **Calisthenix**, a full-stack app that helps beginners get into
 🌟 My goal is to become a professional software engineer and work in a friendly, motivating environment.
 📫 Reach me at: [m.m.nikolov.2006@gmail.com](mailto:m.m.nikolov.2006@gmail.com)
 
+</br>
+
 ## 🔗 Connect with Me
 
 <p align="left">
@@ -32,6 +36,8 @@ I’m working on **Calisthenix**, a full-stack app that helps beginners get into
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+</br>
 
 ## 💻 Tech Stack
 
@@ -57,6 +63,8 @@ I’m working on **Calisthenix**, a full-stack app that helps beginners get into
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </p>
 
+</br>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -64,6 +72,7 @@ I’m working on **Calisthenix**, a full-stack app that helps beginners get into
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmnikolov&layout=compact&theme=radical" height="160" />
 </p>
 
+</br>
 
 ## 📜 Certificates
 
