@@ -6,26 +6,25 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm Martin Nikolov — a passionate back-end student developer with a love for turning ideas into reality through code. I’m currently diving deeper into C#, ASP.NET, and full-stack development as I begin my first year at university.
+Hi, I'm Martin Nikolov — a passionate back-end student developer with a love for turning ideas into reality through code. 
 
 💻 I enjoy:
 - Designing clean and intuitive UI
 - Solving tricky bugs (yes, even the stubborn ones!)
-- Building projects from scratch that make a real difference
 
 🚀 My dream project:  
-I’m working on **Calisthenix**, a full-stack app that helps beginners get into calisthenics — combining my passion for fitness and software in one place.
+I’m working on **Calisthenix**, a full-stack app that helps beginners get into calisthenics.
 
-🤝 I prefer working in teams because I love brainstorming and bouncing ideas off others. I believe collaboration is the key to building something truly great.
+🤝 I prefer working in teams because I love brainstorming and bouncing ideas off others.
 
 🎯 My strengths:
-- I’m *stubborn* in the best way possible — I don’t give up easily when something gets hard
+- I’m *stubborn* in the best way possible — I don’t give up easily when something gets hard!
 - I’m constantly pushing to learn deeper, more advanced concepts
 
 🎮 Outside of coding:
 - You’ll find me gaming, hitting the gym, or hanging out with friends — balance is everything.
 
-🌟 My goal is to become a professional software engineer and work in a friendly, motivating environment where I can keep growing both technically and personally.
+🌟 My goal is to become a professional software engineer and work in a friendly, motivating environment.
 📫 Reach me at: [m.m.nikolov.2006@gmail.com](mailto:m.m.nikolov.2006@gmail.com)
 
 ---
