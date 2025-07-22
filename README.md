@@ -5,7 +5,7 @@
 </br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=Back-End+Dev+with+Front-End+Skills;Turning+code+into+calisthenics+apps;Always+Learning+%2F+Never+Quitting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F79A00&center=true&vCenter=true&width=500&lines=It+always+seems+impossible+until+it's+done." alt="Typing quote" />
 </p>
 
 </br>
