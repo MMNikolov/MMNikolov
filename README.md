@@ -4,6 +4,12 @@
 
 </br>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=Back-End+Dev+with+Front-End+Skills;Turning+code+into+calisthenics+apps;Always+Learning+%2F+Never+Quitting" alt="Typing SVG" />
+</p>
+
+</br>
+
 ## 👨‍💻 About Me
 
 Hi, I'm Martin Nikolov — a passionate back-end student developer with a love for turning ideas into reality through code. 
@@ -43,9 +49,10 @@ I’m working on **Calisthenix**, a full-stack app that helps beginners get into
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
