@@ -31,6 +31,7 @@ I’m working on **Calisthenix**, a full-stack app that helps beginners get into
 - You’ll find me gaming, hitting the gym, or hanging out with friends — balance is everything.
 
 🌟 My goal is to become a professional software engineer and work in a friendly, motivating environment.
+</br>
 📫 Reach me at: [m.m.nikolov.2006@gmail.com](mailto:m.m.nikolov.2006@gmail.com)
 
 </br>
@@ -48,23 +49,21 @@ I’m working on **Calisthenix**, a full-stack app that helps beginners get into
 ## 💻 Tech Stack
 
 <p align="left">
-  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
 
-  <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://vitejs.dev/logo-with-shadow.png" width="40" height="40" alt="Vite" />
 
-  <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="MSSQL" />
 
-  <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </p>
